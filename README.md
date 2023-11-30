@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cc4e0904-0734-45c5-8a50-70786a77af11/df6zan0-5567b104-6e54-4927-8449-9d7cc06be9cf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NjNGUwOTA0LTA3MzQtNDVjNS04YTUwLTcwNzg2YTc3YWYxMVwvZGY2emFuMC01NTY3YjEwNC02ZTU0LTQ5MjctODQ0OS05ZDdjYzA2YmU5Y2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZXHA1Tq10HxJnSTEyGwMg1slZMLBBDgwtpDmWNfrcXA)
 <h1 align="center">Hi 👋, I'm Raven Cana</h1>
 <h3 align="center">A working student</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/59813501292017265/">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🔭 I’m currently working on [Mcdonald's Calicanto](https://www.facebook.com/profile.php?id=61550869967040)
 
